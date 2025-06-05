@@ -129,7 +129,7 @@ This project demonstrates the practical implementation of a machine learning cla
 
 ![Image](https://github.com/user-attachments/assets/76155a78-fdee-4f99-9a62-0c01ef014871)
 
-https://github.com/user-attachments/assets/de98cc34-6096-4131-82c8-66bf0aeb669b
+![Image](https://github.com/user-attachments/assets/de98cc34-6096-4131-82c8-66bf0aeb669b)
 
 
 
